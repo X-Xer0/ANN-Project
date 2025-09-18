@@ -29,7 +29,7 @@ A comprehensive machine learning project that uses Artificial Neural Networks (A
 
 ```
 stock-price-prediction/
-├── main.py        # Main Python script with all core modules
+├── stock_prediction.py        # Main Python script with all core modules
 ├── streamlit_app.py           # Interactive web application
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
