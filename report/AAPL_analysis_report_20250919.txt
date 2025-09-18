@@ -1,0 +1,35 @@
+
+STOCK ANALYSIS REPORT
+=====================
+
+Ticker: AAPL
+Date: 2025-09-19 00:44
+Period: 2023-09-20 to 2025-09-19
+
+SUMMARY STATISTICS
+------------------
+Average Close Price: $210.03
+Highest Price: $259.18
+Lowest Price: $162.91
+Total Return: 26.50%
+Annual Volatility: 28.64%
+Sharpe Ratio: 0.60
+
+TECHNICAL INDICATORS
+--------------------
+Current RSI: 59.87
+MACD Signal: Bearish
+Bollinger Band Position: Middle Range
+
+VOLUME ANALYSIS
+---------------
+Average Volume: 56,689,298
+Max Volume: 318,679,900
+
+RECOMMENDATION
+--------------
+Based on the technical analysis and current market conditions,
+the stock shows strong momentum.
+
+Disclaimer: This is an automated report for educational purposes only.
+Please consult with financial advisors before making investment decisions.
