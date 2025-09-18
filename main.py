@@ -1,7 +1,6 @@
 """
 Stock Price Prediction & Movement Classification using Artificial Neural Networks
 ================================================================================
-Author: AI Assistant
 Python Version: 3.10+
 Framework: TensorFlow/Keras
 

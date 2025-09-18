@@ -29,7 +29,7 @@ A comprehensive machine learning project that uses Artificial Neural Networks (A
 
 ```
 stock-price-prediction/
-├── stock_prediction.py        # Main Python script with all core modules
+├── main.py        # Main Python script with all core modules
 ├── streamlit_app.py           # Interactive web application
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
@@ -344,8 +344,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support:
 - Create an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: charizardy10@gmail.com
 
 ## 🚧 Future Enhancements
 
