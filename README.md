@@ -28,7 +28,7 @@ A comprehensive machine learning project that uses Artificial Neural Networks (A
 ## 📁 Project Structure
 
 ```
-stock-price-prediction/
+ANN-Project/
 ├── stock_prediction.py        # Main Python script with all core modules
 ├── streamlit_app.py           # Interactive web application
 ├── screenshots/               # Steamlit web page screen shots
@@ -59,7 +59,7 @@ stock-price-prediction/
 1. **Clone the repository**
 ```bash
 git clone https://github.com/X-Xer0/ANN-Project.git
-cd stock-price-prediction
+cd ANN-Project
 ```
 
 2. **Create virtual environment**
