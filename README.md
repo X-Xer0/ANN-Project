@@ -31,18 +31,20 @@ A comprehensive machine learning project that uses Artificial Neural Networks (A
 stock-price-prediction/
 ├── stock_prediction.py        # Main Python script with all core modules
 ├── streamlit_app.py           # Interactive web application
+├── screenshots/              # Steamlit web page screen shots
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
+├── report/                    # Summary report
+│   ├── Stock_analysis_report.txt
 ├── models/                    # Saved trained models (created after training)
 │   ├── {ticker}_price_prediction_model.h5
 │   └── {ticker}_movement_classification_model.h5
 ├── data/                      # Stock data (created after fetching)
 │   └── stock_data.csv
 └── visualizations/           # Generated plots (created after running)
-    ├── regression_results.png
-    ├── confusion_matrix.png
-    ├── training_history.png
-    └── technical_analysis.png
+    ├── Movement_Classification_Model_training_history.png
+    ├── Price_Prediction_Model_training_history.png
+
 ```
 
 ## 🚀 Quick Start
@@ -56,7 +58,7 @@ stock-price-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/X-Xer0/ANN-Project.git
 cd stock-price-prediction
 ```
 
